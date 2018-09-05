@@ -36,8 +36,8 @@ public class Main {
     /**
      * Метод для выполнения операции умножения без оператора умножения.
      *
-     * @param firstNumber
-     * @param secondNumber
+     * @param firstNumber первое число вводимое с клавиатуры.
+     * @param secondNumber второе число вводимое с клавиатуры.
      * @return результаты вычислений.
      */
     private static int resultati(int firstNumber, int secondNumber) {

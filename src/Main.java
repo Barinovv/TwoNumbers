@@ -29,7 +29,7 @@ public class Main {
 
         long finish = System.currentTimeMillis() - start;
         System.out.println("Результат вычислий: " + resultati(firstNumber, secondNumber));
-        System.out.println("Время вычислений заняло: " + (finish / 1000) + " секунд");
+        System.out.println("Время вычислений заняло: " + finish  + " mc");
 
     }
 
